@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/alexfigueiredo/fundao.git"
   },
+  "bin": "fundao.js",
   "author": "",
   "license": "ISC",
   "bugs": {
